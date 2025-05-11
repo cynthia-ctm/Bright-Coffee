@@ -1,0 +1,916 @@
+number_of_sales,unique_products_sold,f0_,product_category,product_detail,product_type,store_location,time_bucket
+5,5,90,Coffee beans,Brazilian - Organic,Organic Beans,Astoria,Afternoon
+11,11,198,Coffee beans,Brazilian - Organic,Organic Beans,Astoria,Midday
+23,23,414,Coffee beans,Brazilian - Organic,Organic Beans,Astoria,Morning Rush
+8,8,144,Coffee beans,Brazilian - Organic,Organic Beans,Astoria,Evening
+25,25,450,Coffee beans,Our Old Time Diner Blend,House blend Beans,Astoria,Morning Rush
+8,8,144,Coffee beans,Our Old Time Diner Blend,House blend Beans,Astoria,Midday
+10,10,180,Coffee beans,Our Old Time Diner Blend,House blend Beans,Astoria,Evening
+3,3,54,Coffee beans,Our Old Time Diner Blend,House blend Beans,Astoria,Afternoon
+36,36,531,Coffee beans,Espresso Roast,Espresso Beans,Astoria,Morning Rush
+13,13,191.75,Coffee beans,Espresso Roast,Espresso Beans,Astoria,Evening
+2,2,29.5,Coffee beans,Espresso Roast,Espresso Beans,Astoria,Midday
+27,27,552.15,Coffee beans,Primo Espresso Roast,Espresso Beans,Astoria,Morning Rush
+13,13,265.85,Coffee beans,Primo Espresso Roast,Espresso Beans,Astoria,Evening
+2,2,40.9,Coffee beans,Primo Espresso Roast,Espresso Beans,Astoria,Midday
+4,4,81.8,Coffee beans,Primo Espresso Roast,Espresso Beans,Astoria,Afternoon
+9,9,135,Coffee beans,Columbian Medium Roast,Gourmet Beans,Astoria,Midday
+32,32,480,Coffee beans,Columbian Medium Roast,Gourmet Beans,Astoria,Morning Rush
+7,7,105,Coffee beans,Columbian Medium Roast,Gourmet Beans,Astoria,Evening
+9,9,135,Coffee beans,Columbian Medium Roast,Gourmet Beans,Astoria,Afternoon
+46,46,966,Coffee beans,Ethiopia,Gourmet Beans,Astoria,Morning Rush
+8,8,168,Coffee beans,Ethiopia,Gourmet Beans,Astoria,Evening
+12,12,252,Coffee beans,Ethiopia,Gourmet Beans,Astoria,Afternoon
+9,9,189,Coffee beans,Ethiopia,Gourmet Beans,Astoria,Midday
+16,16,316,Coffee beans,Jamacian Coffee River,Premium Beans,Astoria,Midday
+31,31,612.25,Coffee beans,Jamacian Coffee River,Premium Beans,Astoria,Morning Rush
+4,4,79,Coffee beans,Jamacian Coffee River,Premium Beans,Astoria,Evening
+15,15,675,Coffee beans,Civet Cat,Premium Beans,Astoria,Evening
+18,18,810,Coffee beans,Civet Cat,Premium Beans,Astoria,Morning Rush
+5,5,225,Coffee beans,Civet Cat,Premium Beans,Astoria,Afternoon
+7,7,315,Coffee beans,Civet Cat,Premium Beans,Astoria,Midday
+10,10,225,Coffee beans,Organic Decaf Blend,Organic Beans,Astoria,Midday
+27,27,607.5,Coffee beans,Organic Decaf Blend,Organic Beans,Astoria,Morning Rush
+7,7,157.5,Coffee beans,Organic Decaf Blend,Organic Beans,Astoria,Afternoon
+6,6,60,Coffee beans,Guatemalan Sustainably Grown,Green beans,Astoria,Evening
+28,28,280,Coffee beans,Guatemalan Sustainably Grown,Green beans,Astoria,Morning Rush
+6,6,60,Coffee beans,Guatemalan Sustainably Grown,Green beans,Astoria,Afternoon
+2,2,17.9,Loose Tea,Lemon Grass,Herbal tea,Astoria,Afternoon
+33,33,295.35,Loose Tea,Lemon Grass,Herbal tea,Astoria,Morning Rush
+5,5,44.75,Loose Tea,Lemon Grass,Herbal tea,Astoria,Evening
+2,2,17.9,Loose Tea,Lemon Grass,Herbal tea,Astoria,Midday
+9,9,80.55,Loose Tea,Peppermint,Herbal tea,Astoria,Evening
+24,24,214.8,Loose Tea,Peppermint,Herbal tea,Astoria,Morning Rush
+9,9,80.55,Loose Tea,Peppermint,Herbal tea,Astoria,Midday
+13,13,116.35,Loose Tea,Peppermint,Herbal tea,Astoria,Afternoon
+9,9,80.55,Loose Tea,English Breakfast,Black tea,Astoria,Afternoon
+31,31,277.45,Loose Tea,English Breakfast,Black tea,Astoria,Morning Rush
+10,10,89.5,Loose Tea,English Breakfast,Black tea,Astoria,Evening
+5,5,44.75,Loose Tea,English Breakfast,Black tea,Astoria,Midday
+5,5,44.75,Loose Tea,Earl Grey,Black tea,Astoria,Evening
+21,21,187.95,Loose Tea,Earl Grey,Black tea,Astoria,Morning Rush
+4,4,35.8,Loose Tea,Earl Grey,Black tea,Astoria,Midday
+24,24,222,Loose Tea,Serenity Green Tea,Green tea,Astoria,Morning Rush
+6,6,55.5,Loose Tea,Serenity Green Tea,Green tea,Astoria,Midday
+5,5,46.25,Loose Tea,Serenity Green Tea,Green tea,Astoria,Afternoon
+7,7,64.75,Loose Tea,Serenity Green Tea,Green tea,Astoria,Evening
+22,22,196.9,Loose Tea,Traditional Blend Chai,Chai tea,Astoria,Morning Rush
+4,4,35.8,Loose Tea,Traditional Blend Chai,Chai tea,Astoria,Evening
+5,5,44.75,Loose Tea,Traditional Blend Chai,Chai tea,Astoria,Midday
+6,6,57,Loose Tea,Morning Sunrise Chai,Chai tea,Astoria,Evening
+35,35,332.5,Loose Tea,Morning Sunrise Chai,Chai tea,Astoria,Morning Rush
+8,8,76,Loose Tea,Morning Sunrise Chai,Chai tea,Astoria,Midday
+3,3,28.5,Loose Tea,Morning Sunrise Chai,Chai tea,Astoria,Afternoon
+16,16,175.2,Loose Tea,Spicy Eye Opener Chai,Chai tea,Astoria,Midday
+8,8,87.6,Loose Tea,Spicy Eye Opener Chai,Chai tea,Astoria,Evening
+13,13,142.35,Loose Tea,Spicy Eye Opener Chai,Chai tea,Astoria,Morning Rush
+3,3,19.2,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Astoria,Midday
+4,4,25.6,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Astoria,Morning Rush
+6,6,38.4,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Astoria,Evening
+33,33,250.8,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Astoria,Morning Rush
+10,10,76,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Astoria,Afternoon
+7,7,53.2,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Astoria,Midday
+34,34,453.22,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Astoria,Morning Rush
+8,8,106.64,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Astoria,Midday
+5,5,66.65,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Astoria,Evening
+424,424,1214,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Astoria,Morning Rush
+272,272,856,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Astoria,Midday
+189,189,546,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Astoria,Afternoon
+178,178,534,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Astoria,Evening
+315,315,1152.5,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Astoria,Midday
+108,108,440,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Astoria,Afternoon
+144,144,487.5,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Astoria,Evening
+460,460,1617.5,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Astoria,Morning Rush
+271,271,1245,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Astoria,Midday
+163,163,678,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Astoria,Evening
+469,469,2064,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Astoria,Morning Rush
+125,125,582,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Astoria,Afternoon
+414,414,1298,Coffee,Brazilian Sm,Organic brewed coffee,Astoria,Morning Rush
+147,147,492.8,Coffee,Brazilian Sm,Organic brewed coffee,Astoria,Evening
+243,243,796.4,Coffee,Brazilian Sm,Organic brewed coffee,Astoria,Midday
+154,154,484,Coffee,Brazilian Sm,Organic brewed coffee,Astoria,Afternoon
+436,436,2028,Coffee,Brazilian Rg,Organic brewed coffee,Astoria,Morning Rush
+306,306,1350,Coffee,Brazilian Rg,Organic brewed coffee,Astoria,Midday
+150,150,594,Coffee,Brazilian Rg,Organic brewed coffee,Astoria,Afternoon
+140,140,624,Coffee,Brazilian Rg,Organic brewed coffee,Astoria,Evening
+135,135,675.5,Coffee,Brazilian Lg,Organic brewed coffee,Astoria,Afternoon
+110,110,532,Coffee,Brazilian Lg,Organic brewed coffee,Astoria,Evening
+393,393,2089.5,Coffee,Brazilian Lg,Organic brewed coffee,Astoria,Morning Rush
+288,288,1659,Coffee,Brazilian Lg,Organic brewed coffee,Astoria,Midday
+239,239,742,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Astoria,Midday
+147,147,418,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Astoria,Afternoon
+150,150,430,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Astoria,Evening
+489,489,1496,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Astoria,Morning Rush
+321,321,1130,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Astoria,Midday
+207,207,760,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Astoria,Afternoon
+457,457,1710,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Astoria,Morning Rush
+123,123,432.5,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Astoria,Evening
+437,437,1920,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Astoria,Morning Rush
+249,249,1068,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Astoria,Midday
+150,150,654,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Astoria,Evening
+148,148,669,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Astoria,Afternoon
+233,233,767.8,Coffee,Ethiopia Sm,Gourmet brewed coffee,Astoria,Midday
+554,554,1852.4,Coffee,Ethiopia Sm,Gourmet brewed coffee,Astoria,Morning Rush
+148,148,455.4,Coffee,Ethiopia Sm,Gourmet brewed coffee,Astoria,Afternoon
+146,146,486.2,Coffee,Ethiopia Sm,Gourmet brewed coffee,Astoria,Evening
+233,233,1104,Coffee,Ethiopia Rg,Gourmet brewed coffee,Astoria,Midday
+134,134,591,Coffee,Ethiopia Rg,Gourmet brewed coffee,Astoria,Evening
+448,448,1953,Coffee,Ethiopia Rg,Gourmet brewed coffee,Astoria,Morning Rush
+141,141,606,Coffee,Ethiopia Rg,Gourmet brewed coffee,Astoria,Afternoon
+429,429,2159.5,Coffee,Ethiopia Lg,Gourmet brewed coffee,Astoria,Morning Rush
+229,229,1134,Coffee,Ethiopia Lg,Gourmet brewed coffee,Astoria,Midday
+92,92,458.5,Coffee,Ethiopia Lg,Gourmet brewed coffee,Astoria,Afternoon
+149,149,826,Coffee,Ethiopia Lg,Gourmet brewed coffee,Astoria,Evening
+250,250,852.6,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Astoria,Midday
+139,139,514.5,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Astoria,Afternoon
+124,124,431.2,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Astoria,Evening
+402,402,1443.05,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Astoria,Morning Rush
+292,292,1360.9,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Astoria,Midday
+119,119,564.2,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Astoria,Afternoon
+134,134,672.7,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Astoria,Evening
+490,490,2290.9,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Astoria,Morning Rush
+429,429,2272.5,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Astoria,Morning Rush
+329,329,1781.25,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Astoria,Midday
+182,182,1083.75,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Astoria,Afternoon
+118,118,678.75,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Astoria,Evening
+373,373,1647,Coffee,Espresso shot,Barista Espresso,Astoria,Morning Rush
+157,157,777,Coffee,Espresso shot,Barista Espresso,Astoria,Evening
+266,266,1170,Coffee,Espresso shot,Barista Espresso,Astoria,Midday
+157,157,717,Coffee,Espresso shot,Barista Espresso,Astoria,Afternoon
+493,493,2760,Coffee,Latte,Barista Espresso,Astoria,Morning Rush
+313,313,1740,Coffee,Latte,Barista Espresso,Astoria,Midday
+107,107,622.5,Coffee,Latte,Barista Espresso,Astoria,Evening
+147,147,731.25,Coffee,Latte,Barista Espresso,Astoria,Afternoon
+297,297,1989,Coffee,Latte Rg,Barista Espresso,Astoria,Midday
+137,137,858.5,Coffee,Latte Rg,Barista Espresso,Astoria,Evening
+119,119,722.5,Coffee,Latte Rg,Barista Espresso,Astoria,Afternoon
+435,435,2788,Coffee,Latte Rg,Barista Espresso,Astoria,Morning Rush
+125,125,731.25,Coffee,Cappuccino,Barista Espresso,Astoria,Afternoon
+154,154,858.75,Coffee,Cappuccino,Barista Espresso,Astoria,Evening
+431,431,2411.25,Coffee,Cappuccino,Barista Espresso,Astoria,Morning Rush
+241,241,1282.5,Coffee,Cappuccino,Barista Espresso,Astoria,Midday
+245,245,1576.75,Coffee,Cappuccino Lg,Barista Espresso,Astoria,Midday
+116,116,739.5,Coffee,Cappuccino Lg,Barista Espresso,Astoria,Afternoon
+484,484,2992,Coffee,Cappuccino Lg,Barista Espresso,Astoria,Morning Rush
+133,133,820.25,Coffee,Cappuccino Lg,Barista Espresso,Astoria,Evening
+299,299,1080,Tea,Lemon Grass Rg,Brewed herbal tea,Astoria,Midday
+134,134,517.5,Tea,Lemon Grass Rg,Brewed herbal tea,Astoria,Afternoon
+407,407,1555,Tea,Lemon Grass Rg,Brewed herbal tea,Astoria,Morning Rush
+157,157,550,Tea,Lemon Grass Rg,Brewed herbal tea,Astoria,Evening
+346,346,1590,Tea,Lemon Grass Lg,Brewed herbal tea,Astoria,Morning Rush
+316,316,1413,Tea,Lemon Grass Lg,Brewed herbal tea,Astoria,Midday
+132,132,537,Tea,Lemon Grass Lg,Brewed herbal tea,Astoria,Evening
+133,133,591,Tea,Lemon Grass Lg,Brewed herbal tea,Astoria,Afternoon
+330,330,1245,Tea,Peppermint Rg,Brewed herbal tea,Astoria,Midday
+147,147,532.5,Tea,Peppermint Rg,Brewed herbal tea,Astoria,Afternoon
+135,135,522.5,Tea,Peppermint Rg,Brewed herbal tea,Astoria,Evening
+501,501,1882.5,Tea,Peppermint Rg,Brewed herbal tea,Astoria,Morning Rush
+414,414,1809,Tea,Peppermint Lg,Brewed herbal tea,Astoria,Morning Rush
+182,182,828,Tea,Peppermint Lg,Brewed herbal tea,Astoria,Afternoon
+121,121,540,Tea,Peppermint Lg,Brewed herbal tea,Astoria,Evening
+254,254,1089,Tea,Peppermint Lg,Brewed herbal tea,Astoria,Midday
+434,434,1552.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Astoria,Morning Rush
+301,301,1110,Tea,Serenity Green Tea Rg,Brewed Green tea,Astoria,Midday
+142,142,540,Tea,Serenity Green Tea Rg,Brewed Green tea,Astoria,Afternoon
+96,96,322.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Astoria,Evening
+422,422,1896,Tea,Serenity Green Tea Lg,Brewed Green tea,Astoria,Morning Rush
+273,273,1236,Tea,Serenity Green Tea Lg,Brewed Green tea,Astoria,Midday
+148,148,615,Tea,Serenity Green Tea Lg,Brewed Green tea,Astoria,Afternoon
+164,164,717,Tea,Serenity Green Tea Lg,Brewed Green tea,Astoria,Evening
+270,270,965,Tea,English Breakfast Rg,Brewed Black tea,Astoria,Midday
+116,116,445,Tea,English Breakfast Rg,Brewed Black tea,Astoria,Afternoon
+154,154,567.5,Tea,English Breakfast Rg,Brewed Black tea,Astoria,Evening
+383,383,1370,Tea,English Breakfast Rg,Brewed Black tea,Astoria,Morning Rush
+411,411,1818,Tea,English Breakfast Lg,Brewed Black tea,Astoria,Morning Rush
+273,273,1197,Tea,English Breakfast Lg,Brewed Black tea,Astoria,Midday
+116,116,492,Tea,English Breakfast Lg,Brewed Black tea,Astoria,Afternoon
+159,159,657,Tea,English Breakfast Lg,Brewed Black tea,Astoria,Evening
+504,504,1905,Tea,Earl Grey Rg,Brewed Black tea,Astoria,Morning Rush
+292,292,1127.5,Tea,Earl Grey Rg,Brewed Black tea,Astoria,Midday
+160,160,585,Tea,Earl Grey Rg,Brewed Black tea,Astoria,Afternoon
+181,181,695,Tea,Earl Grey Rg,Brewed Black tea,Astoria,Evening
+152,152,690,Tea,Earl Grey Lg,Brewed Black tea,Astoria,Evening
+285,285,1248,Tea,Earl Grey Lg,Brewed Black tea,Astoria,Midday
+127,127,558,Tea,Earl Grey Lg,Brewed Black tea,Astoria,Afternoon
+396,396,1821,Tea,Earl Grey Lg,Brewed Black tea,Astoria,Morning Rush
+491,491,1815,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Astoria,Morning Rush
+245,245,905,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Astoria,Midday
+179,179,672.5,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Astoria,Afternoon
+127,127,477.5,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Astoria,Evening
+323,323,1401,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Astoria,Midday
+409,409,1908,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Astoria,Morning Rush
+101,101,471,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Astoria,Afternoon
+161,161,666,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Astoria,Evening
+306,306,1150,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Astoria,Midday
+137,137,475,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Astoria,Afternoon
+158,158,607.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Astoria,Evening
+456,456,1630,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Astoria,Morning Rush
+332,332,1888,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Astoria,Midday
+137,137,836,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Astoria,Afternoon
+167,167,1008,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Astoria,Evening
+436,436,2576,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Astoria,Morning Rush
+263,263,1022.55,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Astoria,Midday
+156,156,617.1,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Astoria,Afternoon
+142,142,578.85,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Astoria,Evening
+441,441,1657.5,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Astoria,Morning Rush
+328,328,1416.7,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Astoria,Midday
+153,153,725.4,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Astoria,Evening
+144,144,672.7,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Astoria,Afternoon
+501,501,2250.6,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Astoria,Morning Rush
+296,296,1470,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Astoria,Midday
+159,159,924,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Astoria,Afternoon
+166,166,899.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Astoria,Evening
+410,410,2002,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Astoria,Morning Rush
+536,536,3487.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Astoria,Morning Rush
+321,321,2326.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Astoria,Midday
+163,163,1125,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Astoria,Afternoon
+146,146,958.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Astoria,Evening
+436,436,2445,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Astoria,Morning Rush
+265,265,1458.75,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Astoria,Midday
+170,170,933.75,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Astoria,Afternoon
+151,151,795,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Astoria,Evening
+324,324,2208.75,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Astoria,Midday
+152,152,1083,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Astoria,Evening
+145,145,1106.75,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Astoria,Afternoon
+460,460,3111.25,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Astoria,Morning Rush
+274,274,314.4,Flavours,Carmel syrup,Regular syrup,Astoria,Morning Rush
+44,44,51.2,Flavours,Carmel syrup,Regular syrup,Astoria,Afternoon
+42,42,46.4,Flavours,Carmel syrup,Regular syrup,Astoria,Midday
+17,17,16,Flavours,Carmel syrup,Regular syrup,Astoria,Evening
+200,200,244.8,Flavours,Hazelnut syrup,Regular syrup,Astoria,Morning Rush
+46,46,51.2,Flavours,Hazelnut syrup,Regular syrup,Astoria,Midday
+17,17,24,Flavours,Hazelnut syrup,Regular syrup,Astoria,Evening
+23,23,27.2,Flavours,Hazelnut syrup,Regular syrup,Astoria,Afternoon
+277,277,324.8,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Astoria,Morning Rush
+28,28,36,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Astoria,Evening
+53,53,64.8,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Astoria,Midday
+21,21,28,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Astoria,Afternoon
+213,213,715,Bakery,Hazelnut Biscotti,Biscotti,Astoria,Midday
+78,78,260,Bakery,Hazelnut Biscotti,Biscotti,Astoria,Afternoon
+268,268,887.25,Bakery,Hazelnut Biscotti,Biscotti,Astoria,Morning Rush
+86,86,295.75,Bakery,Hazelnut Biscotti,Biscotti,Astoria,Evening
+179,179,614.25,Bakery,Cranberry Scone,Scone,Astoria,Midday
+305,305,1007.5,Bakery,Cranberry Scone,Scone,Astoria,Morning Rush
+99,99,321.75,Bakery,Cranberry Scone,Scone,Astoria,Afternoon
+87,87,282.75,Bakery,Cranberry Scone,Scone,Astoria,Evening
+91,91,352.5,Bakery,Chocolate Croissant,Pastry,Astoria,Afternoon
+206,206,802.5,Bakery,Chocolate Croissant,Pastry,Astoria,Midday
+131,131,491.25,Bakery,Chocolate Croissant,Pastry,Astoria,Evening
+575,575,2190,Bakery,Chocolate Croissant,Pastry,Astoria,Morning Rush
+169,169,549.25,Bakery,Ginger Scone,Scone,Astoria,Midday
+73,73,237.25,Bakery,Ginger Scone,Scone,Astoria,Afternoon
+89,89,305.5,Bakery,Ginger Scone,Scone,Astoria,Evening
+309,309,1014,Bakery,Ginger Scone,Scone,Astoria,Morning Rush
+130,130,487.5,Bakery,Almond Croissant,Pastry,Astoria,Midday
+97,97,371.25,Bakery,Almond Croissant,Pastry,Astoria,Afternoon
+290,290,1102.5,Bakery,Almond Croissant,Pastry,Astoria,Morning Rush
+98,98,375,Bakery,Almond Croissant,Pastry,Astoria,Evening
+96,96,336,Bakery,Ginger Biscotti,Biscotti,Astoria,Afternoon
+101,101,371,Bakery,Ginger Biscotti,Biscotti,Astoria,Evening
+138,138,518,Bakery,Ginger Biscotti,Biscotti,Astoria,Midday
+282,282,1011.5,Bakery,Ginger Biscotti,Biscotti,Astoria,Morning Rush
+302,302,1106,Bakery,Croissant,Pastry,Astoria,Morning Rush
+146,146,521.5,Bakery,Croissant,Pastry,Astoria,Midday
+69,69,248.5,Bakery,Croissant,Pastry,Astoria,Afternoon
+68,68,245,Bakery,Croissant,Pastry,Astoria,Evening
+180,180,693,Bakery,Chocolate Chip Biscotti,Biscotti,Astoria,Midday
+108,108,406,Bakery,Chocolate Chip Biscotti,Biscotti,Astoria,Afternoon
+40,40,150.5,Bakery,Chocolate Chip Biscotti,Biscotti,Astoria,Evening
+291,291,1032.5,Bakery,Chocolate Chip Biscotti,Biscotti,Astoria,Morning Rush
+237,237,717,Bakery,Oatmeal Scone,Scone,Astoria,Morning Rush
+214,214,657,Bakery,Oatmeal Scone,Scone,Astoria,Midday
+116,116,351,Bakery,Oatmeal Scone,Scone,Astoria,Evening
+78,78,234,Bakery,Oatmeal Scone,Scone,Astoria,Afternoon
+69,69,310.5,Bakery,Scottish Cream Scone ,Scone,Astoria,Evening
+123,123,567,Bakery,Scottish Cream Scone ,Scone,Astoria,Midday
+135,135,684,Bakery,Scottish Cream Scone ,Scone,Astoria,Afternoon
+243,243,1152,Bakery,Scottish Cream Scone ,Scone,Astoria,Morning Rush
+277,277,1050,Bakery,Jumbo Savory Scone,Scone,Astoria,Morning Rush
+218,218,843.75,Bakery,Jumbo Savory Scone,Scone,Astoria,Midday
+86,86,333.75,Bakery,Jumbo Savory Scone,Scone,Astoria,Evening
+99,99,397.5,Bakery,Jumbo Savory Scone,Scone,Astoria,Afternoon
+58,58,1599,Branded,I Need My Bean! T-shirt,Clothing,Astoria,Morning Rush
+29,29,812,Branded,I Need My Bean! T-shirt,Clothing,Astoria,Midday
+19,19,532,Branded,I Need My Bean! T-shirt,Clothing,Astoria,Evening
+5,5,140,Branded,I Need My Bean! T-shirt,Clothing,Astoria,Afternoon
+12,12,144,Branded,I Need My Bean! Diner mug,Housewares,Astoria,Midday
+4,4,48,Branded,I Need My Bean! Diner mug,Housewares,Astoria,Evening
+40,40,535,Branded,I Need My Bean! Diner mug,Housewares,Astoria,Morning Rush
+10,10,120,Branded,I Need My Bean! Diner mug,Housewares,Astoria,Afternoon
+8,8,112,Branded,I Need My Bean! Latte cup,Housewares,Astoria,Evening
+62,62,868,Branded,I Need My Bean! Latte cup,Housewares,Astoria,Morning Rush
+16,16,287,Branded,I Need My Bean! Latte cup,Housewares,Astoria,Midday
+16,16,260,Branded,I Need My Bean! Latte cup,Housewares,Astoria,Afternoon
+336,336,396,Flavours,Chocolate syrup,Regular syrup,Astoria,Morning Rush
+22,22,24,Flavours,Chocolate syrup,Regular syrup,Astoria,Afternoon
+43,43,51.2,Flavours,Chocolate syrup,Regular syrup,Astoria,Evening
+47,47,64.8,Flavours,Chocolate syrup,Regular syrup,Astoria,Midday
+66,66,1278,Coffee beans,Brazilian - Organic,Organic Beans,Lower Manhattan,Morning Rush
+20,20,360,Coffee beans,Brazilian - Organic,Organic Beans,Lower Manhattan,Midday
+1,1,18,Coffee beans,Brazilian - Organic,Organic Beans,Lower Manhattan,Afternoon
+39,39,702,Coffee beans,Our Old Time Diner Blend,House blend Beans,Lower Manhattan,Morning Rush
+6,6,108,Coffee beans,Our Old Time Diner Blend,House blend Beans,Lower Manhattan,Afternoon
+3,3,54,Coffee beans,Our Old Time Diner Blend,House blend Beans,Lower Manhattan,Midday
+34,34,501.5,Coffee beans,Espresso Roast,Espresso Beans,Lower Manhattan,Morning Rush
+6,6,88.5,Coffee beans,Espresso Roast,Espresso Beans,Lower Manhattan,Midday
+5,5,73.75,Coffee beans,Espresso Roast,Espresso Beans,Lower Manhattan,Afternoon
+1,1,14.75,Coffee beans,Espresso Roast,Espresso Beans,Lower Manhattan,Evening
+3,3,61.35,Coffee beans,Primo Espresso Roast,Espresso Beans,Lower Manhattan,Evening
+22,22,449.9,Coffee beans,Primo Espresso Roast,Espresso Beans,Lower Manhattan,Morning Rush
+6,6,122.7,Coffee beans,Primo Espresso Roast,Espresso Beans,Lower Manhattan,Midday
+14,14,210,Coffee beans,Columbian Medium Roast,Gourmet Beans,Lower Manhattan,Midday
+21,21,315,Coffee beans,Columbian Medium Roast,Gourmet Beans,Lower Manhattan,Morning Rush
+2,2,30,Coffee beans,Columbian Medium Roast,Gourmet Beans,Lower Manhattan,Afternoon
+49,49,1029,Coffee beans,Ethiopia,Gourmet Beans,Lower Manhattan,Morning Rush
+6,6,126,Coffee beans,Ethiopia,Gourmet Beans,Lower Manhattan,Evening
+12,12,252,Coffee beans,Ethiopia,Gourmet Beans,Lower Manhattan,Midday
+12,12,252,Coffee beans,Ethiopia,Gourmet Beans,Lower Manhattan,Afternoon
+27,27,533.25,Coffee beans,Jamacian Coffee River,Premium Beans,Lower Manhattan,Morning Rush
+11,11,217.25,Coffee beans,Jamacian Coffee River,Premium Beans,Lower Manhattan,Midday
+4,4,79,Coffee beans,Jamacian Coffee River,Premium Beans,Lower Manhattan,Afternoon
+33,33,1485,Coffee beans,Civet Cat,Premium Beans,Lower Manhattan,Morning Rush
+18,18,810,Coffee beans,Civet Cat,Premium Beans,Lower Manhattan,Midday
+59,59,1350,Coffee beans,Organic Decaf Blend,Organic Beans,Lower Manhattan,Morning Rush
+16,16,360,Coffee beans,Organic Decaf Blend,Organic Beans,Lower Manhattan,Midday
+24,24,240,Coffee beans,Guatemalan Sustainably Grown,Green beans,Lower Manhattan,Morning Rush
+8,8,80,Coffee beans,Guatemalan Sustainably Grown,Green beans,Lower Manhattan,Afternoon
+3,3,30,Coffee beans,Guatemalan Sustainably Grown,Green beans,Lower Manhattan,Midday
+3,3,26.85,Loose Tea,Lemon Grass,Herbal tea,Lower Manhattan,Afternoon
+6,6,53.7,Loose Tea,Lemon Grass,Herbal tea,Lower Manhattan,Midday
+21,21,187.95,Loose Tea,Lemon Grass,Herbal tea,Lower Manhattan,Morning Rush
+28,28,250.6,Loose Tea,Peppermint,Herbal tea,Lower Manhattan,Morning Rush
+5,5,44.75,Loose Tea,Peppermint,Herbal tea,Lower Manhattan,Midday
+4,4,35.8,Loose Tea,Peppermint,Herbal tea,Lower Manhattan,Afternoon
+44,44,393.8,Loose Tea,English Breakfast,Black tea,Lower Manhattan,Morning Rush
+9,9,80.55,Loose Tea,English Breakfast,Black tea,Lower Manhattan,Midday
+5,5,44.75,Loose Tea,English Breakfast,Black tea,Lower Manhattan,Afternoon
+32,32,286.4,Loose Tea,Earl Grey,Black tea,Lower Manhattan,Morning Rush
+2,2,17.9,Loose Tea,Earl Grey,Black tea,Lower Manhattan,Midday
+7,7,62.65,Loose Tea,Earl Grey,Black tea,Lower Manhattan,Afternoon
+49,49,453.25,Loose Tea,Serenity Green Tea,Green tea,Lower Manhattan,Morning Rush
+17,17,157.25,Loose Tea,Serenity Green Tea,Green tea,Lower Manhattan,Afternoon
+7,7,64.75,Loose Tea,Serenity Green Tea,Green tea,Lower Manhattan,Midday
+16,16,143.2,Loose Tea,Traditional Blend Chai,Chai tea,Lower Manhattan,Morning Rush
+17,17,152.15,Loose Tea,Traditional Blend Chai,Chai tea,Lower Manhattan,Midday
+11,11,98.45,Loose Tea,Traditional Blend Chai,Chai tea,Lower Manhattan,Afternoon
+30,30,285,Loose Tea,Morning Sunrise Chai,Chai tea,Lower Manhattan,Morning Rush
+9,9,85.5,Loose Tea,Morning Sunrise Chai,Chai tea,Lower Manhattan,Evening
+9,9,85.5,Loose Tea,Morning Sunrise Chai,Chai tea,Lower Manhattan,Midday
+37,37,405.15,Loose Tea,Spicy Eye Opener Chai,Chai tea,Lower Manhattan,Morning Rush
+4,4,43.8,Loose Tea,Spicy Eye Opener Chai,Chai tea,Lower Manhattan,Afternoon
+9,9,98.55,Loose Tea,Spicy Eye Opener Chai,Chai tea,Lower Manhattan,Midday
+28,28,179.2,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Lower Manhattan,Morning Rush
+6,6,38.4,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Lower Manhattan,Midday
+5,5,32,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Lower Manhattan,Afternoon
+49,49,372.4,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Lower Manhattan,Morning Rush
+31,31,235.6,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Lower Manhattan,Midday
+4,4,30.4,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Lower Manhattan,Afternoon
+5,5,38,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Lower Manhattan,Evening
+45,45,599.85,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Lower Manhattan,Morning Rush
+7,7,93.31,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Lower Manhattan,Midday
+525,525,1684,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Lower Manhattan,Morning Rush
+99,99,336,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Lower Manhattan,Afternoon
+179,179,594,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Lower Manhattan,Midday
+35,35,104,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Lower Manhattan,Evening
+519,519,2150,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Lower Manhattan,Morning Rush
+247,247,945,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Lower Manhattan,Midday
+114,114,462.5,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Lower Manhattan,Afternoon
+32,32,142.5,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Lower Manhattan,Evening
+453,453,2178,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Lower Manhattan,Morning Rush
+169,169,744,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Lower Manhattan,Midday
+76,76,357,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Lower Manhattan,Afternoon
+27,27,120,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Lower Manhattan,Evening
+507,507,1861.2,Coffee,Brazilian Sm,Organic brewed coffee,Lower Manhattan,Morning Rush
+226,226,783.2,Coffee,Brazilian Sm,Organic brewed coffee,Lower Manhattan,Midday
+103,103,347.6,Coffee,Brazilian Sm,Organic brewed coffee,Lower Manhattan,Afternoon
+30,30,74.8,Coffee,Brazilian Sm,Organic brewed coffee,Lower Manhattan,Evening
+554,554,2760,Coffee,Brazilian Rg,Organic brewed coffee,Lower Manhattan,Morning Rush
+207,207,969,Coffee,Brazilian Rg,Organic brewed coffee,Lower Manhattan,Midday
+104,104,438,Coffee,Brazilian Rg,Organic brewed coffee,Lower Manhattan,Afternoon
+13,13,54,Coffee,Brazilian Rg,Organic brewed coffee,Lower Manhattan,Evening
+504,504,2894.5,Coffee,Brazilian Lg,Organic brewed coffee,Lower Manhattan,Morning Rush
+176,176,973,Coffee,Brazilian Lg,Organic brewed coffee,Lower Manhattan,Midday
+111,111,637,Coffee,Brazilian Lg,Organic brewed coffee,Lower Manhattan,Afternoon
+40,40,217,Coffee,Brazilian Lg,Organic brewed coffee,Lower Manhattan,Evening
+462,462,1498,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Lower Manhattan,Morning Rush
+202,202,620,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Lower Manhattan,Midday
+88,88,262,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Lower Manhattan,Afternoon
+21,21,54,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Lower Manhattan,Evening
+570,570,2327.5,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Lower Manhattan,Morning Rush
+229,229,905,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Lower Manhattan,Midday
+119,119,467.5,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Lower Manhattan,Afternoon
+32,32,107.5,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Lower Manhattan,Evening
+228,228,1143,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Lower Manhattan,Midday
+500,500,2523,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Lower Manhattan,Morning Rush
+111,111,528,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Lower Manhattan,Afternoon
+31,31,156,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Lower Manhattan,Evening
+224,224,816.2,Coffee,Ethiopia Sm,Gourmet brewed coffee,Lower Manhattan,Midday
+117,117,435.6,Coffee,Ethiopia Sm,Gourmet brewed coffee,Lower Manhattan,Afternoon
+505,505,1953.6,Coffee,Ethiopia Sm,Gourmet brewed coffee,Lower Manhattan,Morning Rush
+23,23,74.8,Coffee,Ethiopia Sm,Gourmet brewed coffee,Lower Manhattan,Evening
+500,500,2523,Coffee,Ethiopia Rg,Gourmet brewed coffee,Lower Manhattan,Morning Rush
+262,262,1182,Coffee,Ethiopia Rg,Gourmet brewed coffee,Lower Manhattan,Midday
+135,135,681,Coffee,Ethiopia Rg,Gourmet brewed coffee,Lower Manhattan,Afternoon
+33,33,159,Coffee,Ethiopia Rg,Gourmet brewed coffee,Lower Manhattan,Evening
+471,471,2705.5,Coffee,Ethiopia Lg,Gourmet brewed coffee,Lower Manhattan,Morning Rush
+266,266,1575,Coffee,Ethiopia Lg,Gourmet brewed coffee,Lower Manhattan,Midday
+24,24,126,Coffee,Ethiopia Lg,Gourmet brewed coffee,Lower Manhattan,Evening
+64,64,378,Coffee,Ethiopia Lg,Gourmet brewed coffee,Lower Manhattan,Afternoon
+515,515,2006.55,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Lower Manhattan,Morning Rush
+254,254,923.65,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Lower Manhattan,Midday
+106,106,445.9,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Lower Manhattan,Afternoon
+56,56,200.9,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Lower Manhattan,Evening
+448,448,2396.3,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Lower Manhattan,Morning Rush
+178,178,840.1,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Lower Manhattan,Midday
+63,63,337.9,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Lower Manhattan,Afternoon
+32,32,145.7,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Lower Manhattan,Evening
+621,621,3607.5,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Lower Manhattan,Morning Rush
+192,192,1035,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Lower Manhattan,Midday
+118,118,765,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Lower Manhattan,Afternoon
+34,34,202.5,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Lower Manhattan,Evening
+518,518,2475,Coffee,Espresso shot,Barista Espresso,Lower Manhattan,Morning Rush
+171,171,804,Coffee,Espresso shot,Barista Espresso,Lower Manhattan,Midday
+96,96,423,Coffee,Espresso shot,Barista Espresso,Lower Manhattan,Afternoon
+49,49,198,Coffee,Espresso shot,Barista Espresso,Lower Manhattan,Evening
+553,553,3243.75,Coffee,Latte,Barista Espresso,Lower Manhattan,Morning Rush
+230,230,1511.25,Coffee,Latte,Barista Espresso,Lower Manhattan,Midday
+144,144,851.25,Coffee,Latte,Barista Espresso,Lower Manhattan,Afternoon
+28,28,172.5,Coffee,Latte,Barista Espresso,Lower Manhattan,Evening
+590,590,4016.25,Coffee,Latte Rg,Barista Espresso,Lower Manhattan,Morning Rush
+174,174,1253.75,Coffee,Latte Rg,Barista Espresso,Lower Manhattan,Midday
+112,112,803.25,Coffee,Latte Rg,Barista Espresso,Lower Manhattan,Afternoon
+47,47,314.5,Coffee,Latte Rg,Barista Espresso,Lower Manhattan,Evening
+518,518,3243.75,Coffee,Cappuccino,Barista Espresso,Lower Manhattan,Morning Rush
+190,190,1053.75,Coffee,Cappuccino,Barista Espresso,Lower Manhattan,Midday
+120,120,656.25,Coffee,Cappuccino,Barista Espresso,Lower Manhattan,Afternoon
+27,27,183.75,Coffee,Cappuccino,Barista Espresso,Lower Manhattan,Evening
+536,536,3642.25,Coffee,Cappuccino Lg,Barista Espresso,Lower Manhattan,Morning Rush
+228,228,1457.75,Coffee,Cappuccino Lg,Barista Espresso,Lower Manhattan,Midday
+100,100,697,Coffee,Cappuccino Lg,Barista Espresso,Lower Manhattan,Afternoon
+30,30,204,Coffee,Cappuccino Lg,Barista Espresso,Lower Manhattan,Evening
+183,183,785,Tea,Lemon Grass Rg,Brewed herbal tea,Lower Manhattan,Midday
+125,125,502.5,Tea,Lemon Grass Rg,Brewed herbal tea,Lower Manhattan,Afternoon
+529,529,2207.5,Tea,Lemon Grass Rg,Brewed herbal tea,Lower Manhattan,Morning Rush
+26,26,95,Tea,Lemon Grass Rg,Brewed herbal tea,Lower Manhattan,Evening
+470,470,2334,Tea,Lemon Grass Lg,Brewed herbal tea,Lower Manhattan,Morning Rush
+191,191,1029,Tea,Lemon Grass Lg,Brewed herbal tea,Lower Manhattan,Midday
+92,92,489,Tea,Lemon Grass Lg,Brewed herbal tea,Lower Manhattan,Afternoon
+22,22,69,Tea,Lemon Grass Lg,Brewed herbal tea,Lower Manhattan,Evening
+597,597,2427.5,Tea,Peppermint Rg,Brewed herbal tea,Lower Manhattan,Morning Rush
+202,202,875,Tea,Peppermint Rg,Brewed herbal tea,Lower Manhattan,Midday
+70,70,297.5,Tea,Peppermint Rg,Brewed herbal tea,Lower Manhattan,Afternoon
+33,33,137.5,Tea,Peppermint Rg,Brewed herbal tea,Lower Manhattan,Evening
+637,637,3078,Tea,Peppermint Lg,Brewed herbal tea,Lower Manhattan,Morning Rush
+228,228,1083,Tea,Peppermint Lg,Brewed herbal tea,Lower Manhattan,Midday
+107,107,474,Tea,Peppermint Lg,Brewed herbal tea,Lower Manhattan,Afternoon
+23,23,111,Tea,Peppermint Lg,Brewed herbal tea,Lower Manhattan,Evening
+192,192,762.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Lower Manhattan,Midday
+112,112,427.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Lower Manhattan,Afternoon
+574,574,2390,Tea,Serenity Green Tea Rg,Brewed Green tea,Lower Manhattan,Morning Rush
+16,16,85,Tea,Serenity Green Tea Rg,Brewed Green tea,Lower Manhattan,Evening
+503,503,2505,Tea,Serenity Green Tea Lg,Brewed Green tea,Lower Manhattan,Morning Rush
+196,196,960,Tea,Serenity Green Tea Lg,Brewed Green tea,Lower Manhattan,Midday
+72,72,327,Tea,Serenity Green Tea Lg,Brewed Green tea,Lower Manhattan,Afternoon
+35,35,189,Tea,Serenity Green Tea Lg,Brewed Green tea,Lower Manhattan,Evening
+594,594,2395,Tea,English Breakfast Rg,Brewed Black tea,Lower Manhattan,Morning Rush
+89,89,365,Tea,English Breakfast Rg,Brewed Black tea,Lower Manhattan,Afternoon
+223,223,957.5,Tea,English Breakfast Rg,Brewed Black tea,Lower Manhattan,Midday
+38,38,157.5,Tea,English Breakfast Rg,Brewed Black tea,Lower Manhattan,Evening
+254,254,1251,Tea,English Breakfast Lg,Brewed Black tea,Lower Manhattan,Midday
+37,37,165,Tea,English Breakfast Lg,Brewed Black tea,Lower Manhattan,Evening
+485,485,2295,Tea,English Breakfast Lg,Brewed Black tea,Lower Manhattan,Morning Rush
+101,101,465,Tea,English Breakfast Lg,Brewed Black tea,Lower Manhattan,Afternoon
+584,584,2377.5,Tea,Earl Grey Rg,Brewed Black tea,Lower Manhattan,Morning Rush
+160,160,650,Tea,Earl Grey Rg,Brewed Black tea,Lower Manhattan,Midday
+130,130,535,Tea,Earl Grey Rg,Brewed Black tea,Lower Manhattan,Afternoon
+22,22,90,Tea,Earl Grey Rg,Brewed Black tea,Lower Manhattan,Evening
+551,551,2847,Tea,Earl Grey Lg,Brewed Black tea,Lower Manhattan,Morning Rush
+205,205,972,Tea,Earl Grey Lg,Brewed Black tea,Lower Manhattan,Midday
+102,102,483,Tea,Earl Grey Lg,Brewed Black tea,Lower Manhattan,Afternoon
+36,36,210,Tea,Earl Grey Lg,Brewed Black tea,Lower Manhattan,Evening
+242,242,1005,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Lower Manhattan,Midday
+45,45,177.5,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Lower Manhattan,Evening
+106,106,425,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Lower Manhattan,Afternoon
+513,513,2005,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Lower Manhattan,Morning Rush
+162,162,750,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Lower Manhattan,Midday
+64,64,285,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Lower Manhattan,Afternoon
+25,25,105,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Lower Manhattan,Evening
+534,534,2577,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Lower Manhattan,Morning Rush
+539,539,2197.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Lower Manhattan,Morning Rush
+29,29,117.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Lower Manhattan,Evening
+92,92,387.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Lower Manhattan,Afternoon
+251,251,1070,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Lower Manhattan,Midday
+536,536,3588,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Lower Manhattan,Morning Rush
+197,197,1260,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Lower Manhattan,Midday
+27,27,152,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Lower Manhattan,Evening
+64,64,424,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Lower Manhattan,Afternoon
+483,483,2121.6,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Lower Manhattan,Morning Rush
+181,181,749.7,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Lower Manhattan,Midday
+82,82,293.25,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Lower Manhattan,Afternoon
+24,24,86.7,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Lower Manhattan,Evening
+473,473,2396.3,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Lower Manhattan,Morning Rush
+227,227,1100.5,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Lower Manhattan,Midday
+145,145,620,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Lower Manhattan,Afternoon
+25,25,114.7,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Lower Manhattan,Evening
+478,478,2859.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Lower Manhattan,Morning Rush
+180,180,934.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Lower Manhattan,Midday
+82,82,378,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Lower Manhattan,Afternoon
+23,23,136.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Lower Manhattan,Evening
+529,529,4090.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Lower Manhattan,Morning Rush
+252,252,1602,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Lower Manhattan,Midday
+110,110,742.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Lower Manhattan,Afternoon
+21,21,139.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Lower Manhattan,Evening
+513,513,3217.5,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Lower Manhattan,Morning Rush
+257,257,1413.75,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Lower Manhattan,Midday
+87,87,495,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Lower Manhattan,Afternoon
+32,32,172.5,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Lower Manhattan,Evening
+546,546,4165.75,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Lower Manhattan,Morning Rush
+170,170,1258.75,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Lower Manhattan,Midday
+23,23,171,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Lower Manhattan,Evening
+102,102,717.25,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Lower Manhattan,Afternoon
+484,484,576,Flavours,Carmel syrup,Regular syrup,Lower Manhattan,Morning Rush
+161,161,180,Flavours,Carmel syrup,Regular syrup,Lower Manhattan,Midday
+88,88,104,Flavours,Carmel syrup,Regular syrup,Lower Manhattan,Afternoon
+11,11,18.4,Flavours,Carmel syrup,Regular syrup,Lower Manhattan,Evening
+483,483,612.8,Flavours,Hazelnut syrup,Regular syrup,Lower Manhattan,Morning Rush
+13,13,27.2,Flavours,Hazelnut syrup,Regular syrup,Lower Manhattan,Evening
+64,64,84.8,Flavours,Hazelnut syrup,Regular syrup,Lower Manhattan,Afternoon
+99,99,132,Flavours,Hazelnut syrup,Regular syrup,Lower Manhattan,Midday
+543,543,752.8,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Lower Manhattan,Morning Rush
+149,149,204.8,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Lower Manhattan,Midday
+95,95,124,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Lower Manhattan,Afternoon
+43,43,71.2,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Lower Manhattan,Evening
+429,429,1405.59,Bakery,Hazelnut Biscotti,Biscotti,Lower Manhattan,Morning Rush
+174,174,565.5,Bakery,Hazelnut Biscotti,Biscotti,Lower Manhattan,Midday
+26,26,90.17,Bakery,Hazelnut Biscotti,Biscotti,Lower Manhattan,Evening
+80,80,260,Bakery,Hazelnut Biscotti,Biscotti,Lower Manhattan,Afternoon
+461,461,1516.07,Bakery,Cranberry Scone,Scone,Lower Manhattan,Morning Rush
+58,58,188.5,Bakery,Cranberry Scone,Scone,Lower Manhattan,Afternoon
+142,142,461.5,Bakery,Cranberry Scone,Scone,Lower Manhattan,Midday
+26,26,86.12,Bakery,Cranberry Scone,Scone,Lower Manhattan,Evening
+789,789,2970.03,Bakery,Chocolate Croissant,Pastry,Lower Manhattan,Morning Rush
+160,160,600.94,Bakery,Chocolate Croissant,Pastry,Lower Manhattan,Midday
+64,64,243.76,Bakery,Chocolate Croissant,Pastry,Lower Manhattan,Afternoon
+18,18,67.5,Bakery,Chocolate Croissant,Pastry,Lower Manhattan,Evening
+544,544,1924.22,Bakery,Ginger Scone,Scone,Lower Manhattan,Morning Rush
+228,228,835.41,Bakery,Ginger Scone,Scone,Lower Manhattan,Midday
+62,62,206.1,Bakery,Ginger Scone,Scone,Lower Manhattan,Afternoon
+17,17,57.93,Bakery,Ginger Scone,Scone,Lower Manhattan,Evening
+174,174,652.5,Bakery,Almond Croissant,Pastry,Lower Manhattan,Midday
+27,27,101.25,Bakery,Almond Croissant,Pastry,Lower Manhattan,Evening
+369,369,1385.63,Bakery,Almond Croissant,Pastry,Lower Manhattan,Morning Rush
+72,72,270,Bakery,Almond Croissant,Pastry,Lower Manhattan,Afternoon
+325,325,1141.02,Bakery,Ginger Biscotti,Biscotti,Lower Manhattan,Morning Rush
+128,128,455.04,Bakery,Ginger Biscotti,Biscotti,Lower Manhattan,Midday
+59,59,206.5,Bakery,Ginger Biscotti,Biscotti,Lower Manhattan,Afternoon
+28,28,98,Bakery,Ginger Biscotti,Biscotti,Lower Manhattan,Evening
+436,436,1543.6,Bakery,Croissant,Pastry,Lower Manhattan,Morning Rush
+173,173,610.78,Bakery,Croissant,Pastry,Lower Manhattan,Midday
+101,101,353.5,Bakery,Croissant,Pastry,Lower Manhattan,Afternoon
+26,26,91,Bakery,Croissant,Pastry,Lower Manhattan,Evening
+460,460,1624.96,Bakery,Chocolate Chip Biscotti,Biscotti,Lower Manhattan,Morning Rush
+24,24,84,Bakery,Chocolate Chip Biscotti,Biscotti,Lower Manhattan,Evening
+176,176,616,Bakery,Chocolate Chip Biscotti,Biscotti,Lower Manhattan,Midday
+66,66,231,Bakery,Chocolate Chip Biscotti,Biscotti,Lower Manhattan,Afternoon
+394,394,1182,Bakery,Oatmeal Scone,Scone,Lower Manhattan,Morning Rush
+130,130,390,Bakery,Oatmeal Scone,Scone,Lower Manhattan,Midday
+94,94,282,Bakery,Oatmeal Scone,Scone,Lower Manhattan,Afternoon
+28,28,84,Bakery,Oatmeal Scone,Scone,Lower Manhattan,Evening
+365,365,1654.93,Bakery,Scottish Cream Scone ,Scone,Lower Manhattan,Morning Rush
+167,167,751.5,Bakery,Scottish Cream Scone ,Scone,Lower Manhattan,Midday
+56,56,256.52,Bakery,Scottish Cream Scone ,Scone,Lower Manhattan,Afternoon
+13,13,58.5,Bakery,Scottish Cream Scone ,Scone,Lower Manhattan,Evening
+405,405,1528.15,Bakery,Jumbo Savory Scone,Scone,Lower Manhattan,Morning Rush
+211,211,799.71,Bakery,Jumbo Savory Scone,Scone,Lower Manhattan,Midday
+72,72,270,Bakery,Jumbo Savory Scone,Scone,Lower Manhattan,Afternoon
+33,33,127.51,Bakery,Jumbo Savory Scone,Scone,Lower Manhattan,Evening
+57,57,1596,Branded,I Need My Bean! T-shirt,Clothing,Lower Manhattan,Morning Rush
+24,24,672,Branded,I Need My Bean! T-shirt,Clothing,Lower Manhattan,Midday
+3,3,84,Branded,I Need My Bean! T-shirt,Clothing,Lower Manhattan,Afternoon
+2,2,56,Branded,I Need My Bean! T-shirt,Clothing,Lower Manhattan,Evening
+58,58,912,Branded,I Need My Bean! Diner mug,Housewares,Lower Manhattan,Morning Rush
+34,34,408,Branded,I Need My Bean! Diner mug,Housewares,Lower Manhattan,Midday
+16,16,192,Branded,I Need My Bean! Diner mug,Housewares,Lower Manhattan,Afternoon
+18,18,216,Branded,I Need My Bean! Diner mug,Housewares,Lower Manhattan,Evening
+103,103,1596,Branded,I Need My Bean! Latte cup,Housewares,Lower Manhattan,Morning Rush
+24,24,336,Branded,I Need My Bean! Latte cup,Housewares,Lower Manhattan,Midday
+3,3,42,Branded,I Need My Bean! Latte cup,Housewares,Lower Manhattan,Evening
+7,7,98,Branded,I Need My Bean! Latte cup,Housewares,Lower Manhattan,Afternoon
+492,492,632,Flavours,Chocolate syrup,Regular syrup,Lower Manhattan,Morning Rush
+15,15,14.4,Flavours,Chocolate syrup,Regular syrup,Lower Manhattan,Evening
+134,134,160,Flavours,Chocolate syrup,Regular syrup,Lower Manhattan,Midday
+56,56,72.8,Flavours,Chocolate syrup,Regular syrup,Lower Manhattan,Afternoon
+468,468,2143.8,Coffee,Ouro Brasileiro shot,Barista Espresso,Lower Manhattan,Morning Rush
+282,282,1220.7,Coffee,Ouro Brasileiro shot,Barista Espresso,Lower Manhattan,Midday
+83,83,384,Coffee,Ouro Brasileiro shot,Barista Espresso,Lower Manhattan,Afternoon
+26,26,97.5,Coffee,Ouro Brasileiro shot,Barista Espresso,Lower Manhattan,Evening
+49,49,882,Coffee beans,Brazilian - Organic,Organic Beans,Hell's Kitchen,Morning Rush
+14,14,252,Coffee beans,Brazilian - Organic,Organic Beans,Hell's Kitchen,Midday
+9,9,162,Coffee beans,Brazilian - Organic,Organic Beans,Hell's Kitchen,Evening
+3,3,54,Coffee beans,Brazilian - Organic,Organic Beans,Hell's Kitchen,Afternoon
+66,66,1188,Coffee beans,Our Old Time Diner Blend,House blend Beans,Hell's Kitchen,Morning Rush
+3,3,54,Coffee beans,Our Old Time Diner Blend,House blend Beans,Hell's Kitchen,Evening
+12,12,216,Coffee beans,Our Old Time Diner Blend,House blend Beans,Hell's Kitchen,Midday
+8,8,144,Coffee beans,Our Old Time Diner Blend,House blend Beans,Hell's Kitchen,Afternoon
+16,16,236,Coffee beans,Espresso Roast,Espresso Beans,Hell's Kitchen,Afternoon
+48,48,708,Coffee beans,Espresso Roast,Espresso Beans,Hell's Kitchen,Morning Rush
+7,7,103.25,Coffee beans,Espresso Roast,Espresso Beans,Hell's Kitchen,Midday
+1,1,14.75,Coffee beans,Espresso Roast,Espresso Beans,Hell's Kitchen,Evening
+60,60,1227,Coffee beans,Primo Espresso Roast,Espresso Beans,Hell's Kitchen,Morning Rush
+6,6,122.7,Coffee beans,Primo Espresso Roast,Espresso Beans,Hell's Kitchen,Midday
+3,3,61.35,Coffee beans,Primo Espresso Roast,Espresso Beans,Hell's Kitchen,Afternoon
+4,4,81.8,Coffee beans,Primo Espresso Roast,Espresso Beans,Hell's Kitchen,Evening
+3,3,45,Coffee beans,Columbian Medium Roast,Gourmet Beans,Hell's Kitchen,Evening
+39,39,585,Coffee beans,Columbian Medium Roast,Gourmet Beans,Hell's Kitchen,Morning Rush
+9,9,135,Coffee beans,Columbian Medium Roast,Gourmet Beans,Hell's Kitchen,Midday
+3,3,45,Coffee beans,Columbian Medium Roast,Gourmet Beans,Hell's Kitchen,Afternoon
+7,7,147,Coffee beans,Ethiopia,Gourmet Beans,Hell's Kitchen,Midday
+45,45,945,Coffee beans,Ethiopia,Gourmet Beans,Hell's Kitchen,Morning Rush
+8,8,168,Coffee beans,Ethiopia,Gourmet Beans,Hell's Kitchen,Afternoon
+4,4,84,Coffee beans,Ethiopia,Gourmet Beans,Hell's Kitchen,Evening
+2,2,39.5,Coffee beans,Jamacian Coffee River,Premium Beans,Hell's Kitchen,Afternoon
+42,42,829.5,Coffee beans,Jamacian Coffee River,Premium Beans,Hell's Kitchen,Morning Rush
+9,9,177.75,Coffee beans,Jamacian Coffee River,Premium Beans,Hell's Kitchen,Midday
+82,82,6840,Coffee beans,Civet Cat,Premium Beans,Hell's Kitchen,Morning Rush
+6,6,270,Coffee beans,Civet Cat,Premium Beans,Hell's Kitchen,Midday
+3,3,135,Coffee beans,Civet Cat,Premium Beans,Hell's Kitchen,Afternoon
+3,3,135,Coffee beans,Civet Cat,Premium Beans,Hell's Kitchen,Evening
+43,43,967.5,Coffee beans,Organic Decaf Blend,Organic Beans,Hell's Kitchen,Morning Rush
+16,16,360,Coffee beans,Organic Decaf Blend,Organic Beans,Hell's Kitchen,Evening
+23,23,517.5,Coffee beans,Organic Decaf Blend,Organic Beans,Hell's Kitchen,Midday
+5,5,112.5,Coffee beans,Organic Decaf Blend,Organic Beans,Hell's Kitchen,Afternoon
+11,11,110,Coffee beans,Guatemalan Sustainably Grown,Green beans,Hell's Kitchen,Afternoon
+42,42,420,Coffee beans,Guatemalan Sustainably Grown,Green beans,Hell's Kitchen,Morning Rush
+6,6,60,Coffee beans,Guatemalan Sustainably Grown,Green beans,Hell's Kitchen,Midday
+55,55,492.25,Loose Tea,Lemon Grass,Herbal tea,Hell's Kitchen,Morning Rush
+10,10,89.5,Loose Tea,Lemon Grass,Herbal tea,Hell's Kitchen,Afternoon
+15,15,134.25,Loose Tea,Lemon Grass,Herbal tea,Hell's Kitchen,Midday
+51,51,456.45,Loose Tea,Peppermint,Herbal tea,Hell's Kitchen,Morning Rush
+7,7,62.65,Loose Tea,Peppermint,Herbal tea,Hell's Kitchen,Afternoon
+3,3,26.85,Loose Tea,Peppermint,Herbal tea,Hell's Kitchen,Midday
+12,12,107.4,Loose Tea,English Breakfast,Black tea,Hell's Kitchen,Afternoon
+11,11,98.45,Loose Tea,English Breakfast,Black tea,Hell's Kitchen,Midday
+19,19,170.05,Loose Tea,English Breakfast,Black tea,Hell's Kitchen,Morning Rush
+6,6,53.7,Loose Tea,English Breakfast,Black tea,Hell's Kitchen,Evening
+12,12,107.4,Loose Tea,Earl Grey,Black tea,Hell's Kitchen,Midday
+41,41,366.95,Loose Tea,Earl Grey,Black tea,Hell's Kitchen,Morning Rush
+15,15,134.25,Loose Tea,Earl Grey,Black tea,Hell's Kitchen,Evening
+3,3,26.85,Loose Tea,Earl Grey,Black tea,Hell's Kitchen,Afternoon
+35,35,323.75,Loose Tea,Serenity Green Tea,Green tea,Hell's Kitchen,Morning Rush
+7,7,64.75,Loose Tea,Serenity Green Tea,Green tea,Hell's Kitchen,Midday
+2,2,18.5,Loose Tea,Serenity Green Tea,Green tea,Hell's Kitchen,Evening
+56,56,501.2,Loose Tea,Traditional Blend Chai,Chai tea,Hell's Kitchen,Morning Rush
+2,2,17.9,Loose Tea,Traditional Blend Chai,Chai tea,Hell's Kitchen,Evening
+4,4,35.8,Loose Tea,Traditional Blend Chai,Chai tea,Hell's Kitchen,Afternoon
+16,16,143.2,Loose Tea,Traditional Blend Chai,Chai tea,Hell's Kitchen,Midday
+52,52,494,Loose Tea,Morning Sunrise Chai,Chai tea,Hell's Kitchen,Morning Rush
+11,11,104.5,Loose Tea,Morning Sunrise Chai,Chai tea,Hell's Kitchen,Midday
+5,5,47.5,Loose Tea,Morning Sunrise Chai,Chai tea,Hell's Kitchen,Evening
+28,28,306.6,Loose Tea,Spicy Eye Opener Chai,Chai tea,Hell's Kitchen,Morning Rush
+4,4,43.8,Loose Tea,Spicy Eye Opener Chai,Chai tea,Hell's Kitchen,Evening
+2,2,21.9,Loose Tea,Spicy Eye Opener Chai,Chai tea,Hell's Kitchen,Midday
+1,1,10.95,Loose Tea,Spicy Eye Opener Chai,Chai tea,Hell's Kitchen,Afternoon
+8,8,51.2,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Hell's Kitchen,Midday
+47,47,300.8,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Hell's Kitchen,Morning Rush
+6,6,38.4,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Hell's Kitchen,Evening
+5,5,32,Packaged Chocolate,Dark chocolate,Drinking Chocolate,Hell's Kitchen,Afternoon
+52,52,395.2,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Hell's Kitchen,Morning Rush
+18,18,136.8,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Hell's Kitchen,Midday
+9,9,68.4,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Hell's Kitchen,Afternoon
+3,3,22.8,Packaged Chocolate,Sustainably Grown Organic,Organic Chocolate,Hell's Kitchen,Evening
+6,6,79.98,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Hell's Kitchen,Afternoon
+30,30,399.9,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Hell's Kitchen,Morning Rush
+8,8,106.64,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Hell's Kitchen,Evening
+5,5,66.65,Packaged Chocolate,Chili Mayan,Drinking Chocolate,Hell's Kitchen,Midday
+546,546,1654,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Hell's Kitchen,Morning Rush
+241,241,750,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Hell's Kitchen,Midday
+130,130,402,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Hell's Kitchen,Evening
+101,101,294,Coffee,Our Old Time Diner Blend Sm,Drip coffee,Hell's Kitchen,Afternoon
+519,519,2000,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Hell's Kitchen,Morning Rush
+103,103,420,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Hell's Kitchen,Evening
+186,186,662.5,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Hell's Kitchen,Midday
+147,147,545,Coffee,Our Old Time Diner Blend Rg,Drip coffee,Hell's Kitchen,Afternoon
+515,515,2244,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Hell's Kitchen,Morning Rush
+181,181,843,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Hell's Kitchen,Midday
+100,100,447,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Hell's Kitchen,Evening
+115,115,489,Coffee,Our Old Time Diner Blend Lg,Drip coffee,Hell's Kitchen,Afternoon
+189,189,622.6,Coffee,Brazilian Sm,Organic brewed coffee,Hell's Kitchen,Midday
+567,567,1944.8,Coffee,Brazilian Sm,Organic brewed coffee,Hell's Kitchen,Morning Rush
+120,120,404.8,Coffee,Brazilian Sm,Organic brewed coffee,Hell's Kitchen,Afternoon
+114,114,371.8,Coffee,Brazilian Sm,Organic brewed coffee,Hell's Kitchen,Evening
+244,244,1071,Coffee,Brazilian Rg,Organic brewed coffee,Hell's Kitchen,Midday
+106,106,489,Coffee,Brazilian Rg,Organic brewed coffee,Hell's Kitchen,Evening
+555,555,2349,Coffee,Brazilian Rg,Organic brewed coffee,Hell's Kitchen,Morning Rush
+89,89,429,Coffee,Brazilian Rg,Organic brewed coffee,Hell's Kitchen,Afternoon
+220,220,1211,Coffee,Brazilian Lg,Organic brewed coffee,Hell's Kitchen,Midday
+108,108,542.5,Coffee,Brazilian Lg,Organic brewed coffee,Hell's Kitchen,Afternoon
+131,131,717.5,Coffee,Brazilian Lg,Organic brewed coffee,Hell's Kitchen,Evening
+555,555,2961,Coffee,Brazilian Lg,Organic brewed coffee,Hell's Kitchen,Morning Rush
+141,141,456,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Hell's Kitchen,Afternoon
+463,463,1406,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Hell's Kitchen,Morning Rush
+197,197,584,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Hell's Kitchen,Midday
+129,129,390,Coffee,Columbian Medium Roast Sm,Gourmet brewed coffee,Hell's Kitchen,Evening
+199,199,725,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Hell's Kitchen,Midday
+85,85,320,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Hell's Kitchen,Afternoon
+542,542,2005,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Hell's Kitchen,Morning Rush
+129,129,477.5,Coffee,Columbian Medium Roast Rg,Gourmet brewed coffee,Hell's Kitchen,Evening
+203,203,885,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Hell's Kitchen,Midday
+117,117,510,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Hell's Kitchen,Afternoon
+462,462,2097,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Hell's Kitchen,Morning Rush
+95,95,432,Coffee,Columbian Medium Roast Lg,Gourmet brewed coffee,Hell's Kitchen,Evening
+464,464,1520.2,Coffee,Ethiopia Sm,Gourmet brewed coffee,Hell's Kitchen,Morning Rush
+222,222,730.4,Coffee,Ethiopia Sm,Gourmet brewed coffee,Hell's Kitchen,Midday
+104,104,365.2,Coffee,Ethiopia Sm,Gourmet brewed coffee,Hell's Kitchen,Afternoon
+93,93,294.8,Coffee,Ethiopia Sm,Gourmet brewed coffee,Hell's Kitchen,Evening
+530,530,2364,Coffee,Ethiopia Rg,Gourmet brewed coffee,Hell's Kitchen,Morning Rush
+237,237,1140,Coffee,Ethiopia Rg,Gourmet brewed coffee,Hell's Kitchen,Midday
+108,108,417,Coffee,Ethiopia Rg,Gourmet brewed coffee,Hell's Kitchen,Evening
+105,105,459,Coffee,Ethiopia Rg,Gourmet brewed coffee,Hell's Kitchen,Afternoon
+558,558,3052,Coffee,Ethiopia Lg,Gourmet brewed coffee,Hell's Kitchen,Morning Rush
+253,253,1277.5,Coffee,Ethiopia Lg,Gourmet brewed coffee,Hell's Kitchen,Midday
+111,111,574,Coffee,Ethiopia Lg,Gourmet brewed coffee,Hell's Kitchen,Afternoon
+95,95,528.5,Coffee,Ethiopia Lg,Gourmet brewed coffee,Hell's Kitchen,Evening
+181,181,710.5,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Hell's Kitchen,Midday
+99,99,404.25,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Hell's Kitchen,Afternoon
+421,421,1568,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Hell's Kitchen,Morning Rush
+83,83,343,Coffee,Jamaican Coffee River Sm,Premium brewed coffee,Hell's Kitchen,Evening
+484,484,2157.6,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Hell's Kitchen,Morning Rush
+181,181,911.4,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Hell's Kitchen,Midday
+84,84,387.5,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Hell's Kitchen,Afternoon
+89,89,390.6,Coffee,Jamaican Coffee River Rg,Premium brewed coffee,Hell's Kitchen,Evening
+492,492,2906.25,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Hell's Kitchen,Morning Rush
+145,145,783.75,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Hell's Kitchen,Midday
+147,147,731.25,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Hell's Kitchen,Afternoon
+104,104,633.75,Coffee,Jamaican Coffee River Lg,Premium brewed coffee,Hell's Kitchen,Evening
+245,245,1113,Coffee,Espresso shot,Barista Espresso,Hell's Kitchen,Midday
+113,113,528,Coffee,Espresso shot,Barista Espresso,Hell's Kitchen,Evening
+489,489,2223,Coffee,Espresso shot,Barista Espresso,Hell's Kitchen,Morning Rush
+96,96,420,Coffee,Espresso shot,Barista Espresso,Hell's Kitchen,Afternoon
+559,559,3206.25,Coffee,Latte,Barista Espresso,Hell's Kitchen,Morning Rush
+211,211,1237.5,Coffee,Latte,Barista Espresso,Hell's Kitchen,Midday
+77,77,446.25,Coffee,Latte,Barista Espresso,Hell's Kitchen,Afternoon
+128,128,735,Coffee,Latte,Barista Espresso,Hell's Kitchen,Evening
+582,582,3820.75,Coffee,Latte Rg,Barista Espresso,Hell's Kitchen,Morning Rush
+204,204,1326,Coffee,Latte Rg,Barista Espresso,Hell's Kitchen,Midday
+107,107,675.75,Coffee,Latte Rg,Barista Espresso,Hell's Kitchen,Afternoon
+92,92,544,Coffee,Latte Rg,Barista Espresso,Hell's Kitchen,Evening
+569,569,3288.75,Coffee,Cappuccino,Barista Espresso,Hell's Kitchen,Morning Rush
+225,225,1211.25,Coffee,Cappuccino,Barista Espresso,Hell's Kitchen,Midday
+91,91,472.5,Coffee,Cappuccino,Barista Espresso,Hell's Kitchen,Evening
+102,102,603.75,Coffee,Cappuccino,Barista Espresso,Hell's Kitchen,Afternoon
+506,506,3089.75,Coffee,Cappuccino Lg,Barista Espresso,Hell's Kitchen,Morning Rush
+102,102,599.25,Coffee,Cappuccino Lg,Barista Espresso,Hell's Kitchen,Afternoon
+102,102,633.25,Coffee,Cappuccino Lg,Barista Espresso,Hell's Kitchen,Evening
+190,190,1190,Coffee,Cappuccino Lg,Barista Espresso,Hell's Kitchen,Midday
+530,530,2002.5,Tea,Lemon Grass Rg,Brewed herbal tea,Hell's Kitchen,Morning Rush
+197,197,775,Tea,Lemon Grass Rg,Brewed herbal tea,Hell's Kitchen,Midday
+119,119,462.5,Tea,Lemon Grass Rg,Brewed herbal tea,Hell's Kitchen,Afternoon
+86,86,280,Tea,Lemon Grass Rg,Brewed herbal tea,Hell's Kitchen,Evening
+144,144,639,Tea,Lemon Grass Lg,Brewed herbal tea,Hell's Kitchen,Evening
+547,547,2406,Tea,Lemon Grass Lg,Brewed herbal tea,Hell's Kitchen,Morning Rush
+166,166,789,Tea,Lemon Grass Lg,Brewed herbal tea,Hell's Kitchen,Midday
+88,88,381,Tea,Lemon Grass Lg,Brewed herbal tea,Hell's Kitchen,Afternoon
+546,546,2015,Tea,Peppermint Rg,Brewed herbal tea,Hell's Kitchen,Morning Rush
+238,238,917.5,Tea,Peppermint Rg,Brewed herbal tea,Hell's Kitchen,Midday
+89,89,342.5,Tea,Peppermint Rg,Brewed herbal tea,Hell's Kitchen,Evening
+61,61,215,Tea,Peppermint Rg,Brewed herbal tea,Hell's Kitchen,Afternoon
+489,489,2214,Tea,Peppermint Lg,Brewed herbal tea,Hell's Kitchen,Morning Rush
+182,182,825,Tea,Peppermint Lg,Brewed herbal tea,Hell's Kitchen,Midday
+106,106,510,Tea,Peppermint Lg,Brewed herbal tea,Hell's Kitchen,Evening
+114,114,489,Tea,Peppermint Lg,Brewed herbal tea,Hell's Kitchen,Afternoon
+543,543,2080,Tea,Serenity Green Tea Rg,Brewed Green tea,Hell's Kitchen,Morning Rush
+109,109,402.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Hell's Kitchen,Afternoon
+133,133,497.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Hell's Kitchen,Evening
+269,269,1022.5,Tea,Serenity Green Tea Rg,Brewed Green tea,Hell's Kitchen,Midday
+530,530,2376,Tea,Serenity Green Tea Lg,Brewed Green tea,Hell's Kitchen,Morning Rush
+194,194,879,Tea,Serenity Green Tea Lg,Brewed Green tea,Hell's Kitchen,Midday
+127,127,558,Tea,Serenity Green Tea Lg,Brewed Green tea,Hell's Kitchen,Afternoon
+86,86,402,Tea,Serenity Green Tea Lg,Brewed Green tea,Hell's Kitchen,Evening
+176,176,652.5,Tea,English Breakfast Rg,Brewed Black tea,Hell's Kitchen,Midday
+496,496,1857.5,Tea,English Breakfast Rg,Brewed Black tea,Hell's Kitchen,Morning Rush
+90,90,347.5,Tea,English Breakfast Rg,Brewed Black tea,Hell's Kitchen,Evening
+114,114,420,Tea,English Breakfast Rg,Brewed Black tea,Hell's Kitchen,Afternoon
+202,202,936,Tea,English Breakfast Lg,Brewed Black tea,Hell's Kitchen,Midday
+127,127,597,Tea,English Breakfast Lg,Brewed Black tea,Hell's Kitchen,Evening
+118,118,528,Tea,English Breakfast Lg,Brewed Black tea,Hell's Kitchen,Afternoon
+569,569,2526,Tea,English Breakfast Lg,Brewed Black tea,Hell's Kitchen,Morning Rush
+553,553,2030,Tea,Earl Grey Rg,Brewed Black tea,Hell's Kitchen,Morning Rush
+209,209,795,Tea,Earl Grey Rg,Brewed Black tea,Hell's Kitchen,Midday
+138,138,485,Tea,Earl Grey Rg,Brewed Black tea,Hell's Kitchen,Afternoon
+120,120,495,Tea,Earl Grey Rg,Brewed Black tea,Hell's Kitchen,Evening
+498,498,2373,Tea,Earl Grey Lg,Brewed Black tea,Hell's Kitchen,Morning Rush
+183,183,807,Tea,Earl Grey Lg,Brewed Black tea,Hell's Kitchen,Midday
+80,80,375,Tea,Earl Grey Lg,Brewed Black tea,Hell's Kitchen,Evening
+87,87,351,Tea,Earl Grey Lg,Brewed Black tea,Hell's Kitchen,Afternoon
+128,128,467.5,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Hell's Kitchen,Afternoon
+173,173,665,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Hell's Kitchen,Midday
+576,576,2122.5,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Hell's Kitchen,Morning Rush
+130,130,542.5,Tea,Traditional Blend Chai Rg,Brewed Chai tea,Hell's Kitchen,Evening
+512,512,2373,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Hell's Kitchen,Morning Rush
+180,180,819,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Hell's Kitchen,Midday
+119,119,579,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Hell's Kitchen,Afternoon
+126,126,588,Tea,Traditional Blend Chai Lg,Brewed Chai tea,Hell's Kitchen,Evening
+584,584,2137.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Hell's Kitchen,Morning Rush
+247,247,932.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Hell's Kitchen,Midday
+107,107,415,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Hell's Kitchen,Afternoon
+120,120,487.5,Tea,Morning Sunrise Chai Rg,Brewed Chai tea,Hell's Kitchen,Evening
+167,167,972,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Hell's Kitchen,Midday
+114,114,756,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Hell's Kitchen,Afternoon
+128,128,772,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Hell's Kitchen,Evening
+525,525,3152,Tea,Morning Sunrise Chai Lg,Brewed Chai tea,Hell's Kitchen,Morning Rush
+500,500,1935.45,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Hell's Kitchen,Morning Rush
+230,230,836.4,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Hell's Kitchen,Midday
+108,108,402.9,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Hell's Kitchen,Evening
+95,95,334.05,Tea,Spicy Eye Opener Chai Rg,Brewed Chai tea,Hell's Kitchen,Afternoon
+119,119,576.6,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Hell's Kitchen,Evening
+228,228,1032.3,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Hell's Kitchen,Midday
+120,120,514.6,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Hell's Kitchen,Afternoon
+488,488,2232,Tea,Spicy Eye Opener Chai Lg,Brewed Chai tea,Hell's Kitchen,Morning Rush
+117,117,584.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Hell's Kitchen,Afternoon
+176,176,882,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Hell's Kitchen,Midday
+436,436,2327.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Hell's Kitchen,Morning Rush
+113,113,626.5,Drinking Chocolate,Dark chocolate Rg,Hot chocolate,Hell's Kitchen,Evening
+512,512,3600,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Hell's Kitchen,Morning Rush
+229,229,1525.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Hell's Kitchen,Midday
+98,98,616.5,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Hell's Kitchen,Afternoon
+112,112,792,Drinking Chocolate,Dark chocolate Lg,Hot chocolate,Hell's Kitchen,Evening
+501,501,2887.5,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Hell's Kitchen,Morning Rush
+211,211,1177.5,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Hell's Kitchen,Midday
+131,131,735,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Hell's Kitchen,Afternoon
+88,88,502.5,Drinking Chocolate,Sustainably Grown Organic Rg,Hot chocolate,Hell's Kitchen,Evening
+598,598,3961.5,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Hell's Kitchen,Morning Rush
+217,217,1667.25,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Hell's Kitchen,Midday
+112,112,888.25,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Hell's Kitchen,Evening
+112,112,812.25,Drinking Chocolate,Sustainably Grown Organic Lg,Hot chocolate,Hell's Kitchen,Afternoon
+393,393,491.2,Flavours,Carmel syrup,Regular syrup,Hell's Kitchen,Morning Rush
+97,97,116.8,Flavours,Carmel syrup,Regular syrup,Hell's Kitchen,Midday
+53,53,68.8,Flavours,Carmel syrup,Regular syrup,Hell's Kitchen,Afternoon
+61,61,77.6,Flavours,Carmel syrup,Regular syrup,Hell's Kitchen,Evening
+417,417,489.6,Flavours,Hazelnut syrup,Regular syrup,Hell's Kitchen,Morning Rush
+52,52,72,Flavours,Hazelnut syrup,Regular syrup,Hell's Kitchen,Evening
+66,66,80,Flavours,Hazelnut syrup,Regular syrup,Hell's Kitchen,Midday
+41,41,52,Flavours,Hazelnut syrup,Regular syrup,Hell's Kitchen,Afternoon
+390,390,445.6,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Hell's Kitchen,Morning Rush
+105,105,138.4,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Hell's Kitchen,Midday
+55,55,67.2,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Hell's Kitchen,Afternoon
+52,52,66.4,Flavours,Sugar Free Vanilla syrup,Sugar free syrup,Hell's Kitchen,Evening
+104,104,338,Bakery,Hazelnut Biscotti,Biscotti,Hell's Kitchen,Midday
+64,64,208,Bakery,Hazelnut Biscotti,Biscotti,Hell's Kitchen,Evening
+422,422,1371.5,Bakery,Hazelnut Biscotti,Biscotti,Hell's Kitchen,Morning Rush
+65,65,211.25,Bakery,Hazelnut Biscotti,Biscotti,Hell's Kitchen,Afternoon
+430,430,1397.5,Bakery,Cranberry Scone,Scone,Hell's Kitchen,Morning Rush
+75,75,243.75,Bakery,Cranberry Scone,Scone,Hell's Kitchen,Evening
+132,132,429,Bakery,Cranberry Scone,Scone,Hell's Kitchen,Midday
+83,83,269.75,Bakery,Cranberry Scone,Scone,Hell's Kitchen,Afternoon
+119,119,446.25,Bakery,Chocolate Croissant,Pastry,Hell's Kitchen,Midday
+779,779,2921.25,Bakery,Chocolate Croissant,Pastry,Hell's Kitchen,Morning Rush
+68,68,255,Bakery,Chocolate Croissant,Pastry,Hell's Kitchen,Afternoon
+76,76,285,Bakery,Chocolate Croissant,Pastry,Hell's Kitchen,Evening
+549,549,1898.75,Bakery,Ginger Scone,Scone,Hell's Kitchen,Morning Rush
+144,144,506.05,Bakery,Ginger Scone,Scone,Hell's Kitchen,Midday
+81,81,285.4,Bakery,Ginger Scone,Scone,Hell's Kitchen,Evening
+59,59,191.75,Bakery,Ginger Scone,Scone,Hell's Kitchen,Afternoon
+408,408,1530,Bakery,Almond Croissant,Pastry,Hell's Kitchen,Morning Rush
+50,50,187.5,Bakery,Almond Croissant,Pastry,Hell's Kitchen,Evening
+125,125,468.75,Bakery,Almond Croissant,Pastry,Hell's Kitchen,Midday
+63,63,236.25,Bakery,Almond Croissant,Pastry,Hell's Kitchen,Afternoon
+405,405,1428,Bakery,Ginger Biscotti,Biscotti,Hell's Kitchen,Morning Rush
+76,76,266,Bakery,Ginger Biscotti,Biscotti,Hell's Kitchen,Evening
+104,104,364,Bakery,Ginger Biscotti,Biscotti,Hell's Kitchen,Midday
+69,69,241.5,Bakery,Ginger Biscotti,Biscotti,Hell's Kitchen,Afternoon
+75,75,262.5,Bakery,Croissant,Pastry,Hell's Kitchen,Midday
+64,64,224,Bakery,Croissant,Pastry,Hell's Kitchen,Evening
+37,37,129.5,Bakery,Croissant,Pastry,Hell's Kitchen,Afternoon
+436,436,1526,Bakery,Croissant,Pastry,Hell's Kitchen,Morning Rush
+62,62,217,Bakery,Chocolate Chip Biscotti,Biscotti,Hell's Kitchen,Afternoon
+335,335,1172.5,Bakery,Chocolate Chip Biscotti,Biscotti,Hell's Kitchen,Morning Rush
+104,104,364,Bakery,Chocolate Chip Biscotti,Biscotti,Hell's Kitchen,Midday
+45,45,157.5,Bakery,Chocolate Chip Biscotti,Biscotti,Hell's Kitchen,Evening
+39,39,117,Bakery,Oatmeal Scone,Scone,Hell's Kitchen,Afternoon
+47,47,141,Bakery,Oatmeal Scone,Scone,Hell's Kitchen,Evening
+107,107,321,Bakery,Oatmeal Scone,Scone,Hell's Kitchen,Midday
+328,328,984,Bakery,Oatmeal Scone,Scone,Hell's Kitchen,Morning Rush
+504,504,2268,Bakery,Scottish Cream Scone ,Scone,Hell's Kitchen,Morning Rush
+131,131,589.5,Bakery,Scottish Cream Scone ,Scone,Hell's Kitchen,Midday
+88,88,396,Bakery,Scottish Cream Scone ,Scone,Hell's Kitchen,Afternoon
+58,58,261,Bakery,Scottish Cream Scone ,Scone,Hell's Kitchen,Evening
+405,405,1518.75,Bakery,Jumbo Savory Scone,Scone,Hell's Kitchen,Morning Rush
+76,76,285,Bakery,Jumbo Savory Scone,Scone,Hell's Kitchen,Midday
+60,60,225,Bakery,Jumbo Savory Scone,Scone,Hell's Kitchen,Afternoon
+66,66,247.5,Bakery,Jumbo Savory Scone,Scone,Hell's Kitchen,Evening
+24,24,672,Branded,I Need My Bean! T-shirt,Clothing,Hell's Kitchen,Morning Rush
+17,17,204,Branded,I Need My Bean! Diner mug,Housewares,Hell's Kitchen,Morning Rush
+9,9,108,Branded,I Need My Bean! Diner mug,Housewares,Hell's Kitchen,Midday
+4,4,48,Branded,I Need My Bean! Diner mug,Housewares,Hell's Kitchen,Afternoon
+42,42,588,Branded,I Need My Bean! Latte cup,Housewares,Hell's Kitchen,Morning Rush
+6,6,84,Branded,I Need My Bean! Latte cup,Housewares,Hell's Kitchen,Afternoon
+10,10,140,Branded,I Need My Bean! Latte cup,Housewares,Hell's Kitchen,Evening
+7,7,98,Branded,I Need My Bean! Latte cup,Housewares,Hell's Kitchen,Midday
+409,409,496.8,Flavours,Chocolate syrup,Regular syrup,Hell's Kitchen,Morning Rush
+57,57,70.4,Flavours,Chocolate syrup,Regular syrup,Hell's Kitchen,Evening
+93,93,102.4,Flavours,Chocolate syrup,Regular syrup,Hell's Kitchen,Midday
+29,29,41.6,Flavours,Chocolate syrup,Regular syrup,Hell's Kitchen,Afternoon
+136,136,546.6,Coffee,Ouro Brasileiro shot,Barista Espresso,Hell's Kitchen,Afternoon
+776,776,2774.4,Coffee,Ouro Brasileiro shot,Barista Espresso,Hell's Kitchen,Morning Rush
+293,293,1153.8,Coffee,Ouro Brasileiro shot,Barista Espresso,Hell's Kitchen,Midday
+158,158,581.4,Coffee,Ouro Brasileiro shot,Barista Espresso,Hell's Kitchen,Evening
